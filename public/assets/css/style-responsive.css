@@ -1,0 +1,144 @@
+@media(max-width: 1200px) {
+    /* start meal details */
+    .mealDetails .meal-card div.submit-buy {
+        margin-bottom: 15px;
+    }
+    /* end meal details */
+}
+@media (max-width: 992px) {
+    /* start footer */
+    footer ul {
+        padding: 0;
+
+    }
+    footer .copy-rights > div {
+        text-align: center !important;
+    }
+    footer .copy-rights p {
+        text-align: center !important;
+    }
+    /* end footer */
+    /* start partner */
+    section.home .partner h2 {
+        font-size: 20px;
+    }
+    section.home .partner div.caption {
+        padding: 80px 0;
+    }
+    /* end partner */
+    /* start search */
+    .search-con {
+        display: block;
+        max-width: 100%;
+    }
+    .search-con label {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .search-con label input {
+        font-size: 15px;
+    }
+    .search-con a.explore {
+        width: 100%;
+        margin-right: auto;
+    }
+    /* end search */
+}
+
+@media(max-width: 768px) {
+    /* start auth form */
+    .auth-form form {
+        width: 95%
+    }
+    /* end auth form */
+}
+
+@media(max-width: 576px) {
+    /* start special restaurants */
+    section.home .specialRestaurants .restaurants-title h1 {
+        font-size: 15px !important;
+    }
+    section.home .specialRestaurants .restaurants-title a {
+        font-size: 15px !important;
+        transform: translateY(-3px);
+    }
+    /* end special restaurants */
+    /* start restaurant details */
+    .restaurant-details .offers h2 {
+        font-size: 28px !important;
+    }
+    .restaurant-details .meals h2 {
+        font-size: 28px;
+    }
+        .restaurant-details .tabs button {
+            margin: 0 14px;
+        }
+    /* end restaurant details */
+    /* start ads */
+    section.home .ads h2 {
+        font-size: 28px;
+    }
+    /* end ads */
+    /* start global */
+    span.top-right-line {
+        width: 70px;
+        right: -85px;
+    }
+
+    span.bottom-right-line {
+        width: 35px;
+        right: -51px;
+    }
+
+    span.top-left-line {
+        width: 70px;
+        left: -88px;
+    }
+
+    span.bottom-left-line {
+        width: 35px;
+        left: -53px;
+    }
+    /* end global */
+    /* start tabs */
+    .tabs button {
+        margin: auto 1px;
+        font-size: 15px;
+    }
+    /* end tabs */
+    /* start cart */
+    section.cart .restaurant-cart .name h3 {
+        font-size: 20px;
+    }
+    section.cart .restaurant-cart .meal .price {
+        font-size: 15px;
+    }
+    section.cart .restaurant-cart .meal .count {
+        margin: 0 5px;
+    }
+    section.cart .restaurant-cart .meal .meal-pic {
+        width: 115px
+    }
+    section.cart .restaurant-cart .meal .meal-name {
+        font-size: 11px;
+    }
+    /* end cart */
+    /* start nav */
+    nav ul {
+        padding: 0;
+        align-items: center;
+    }
+    nav ul li a {
+        padding: 0 !important;
+    }
+    /* end nav */
+    /* start about */
+    .about h2 {
+        font-size: 40px;
+    }
+    .about .social a {
+        margin: 0 -7px;
+    }
+    /* end about */
+        
+}
